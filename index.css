@@ -12,7 +12,7 @@ div#mainContents h2{
 	padding: 4px 0 4px 10px;
 	display: block;
 	color: #fff;
-	background: url(../../share/img/bg_blue.gif) repeat 0 0;
+	background: url(bg_blue.gif) repeat 0 0;
 }
 
 /* CHAPTER */
@@ -42,7 +42,7 @@ div#topicsBox table td{
 div#topicsBox table th{
 	padding: 10px 0 10px 14px;
 	width: 100px;
-	background: url(../../share/img/bg_border.gif) repeat 0 0;
+	background: url(bg_border.gif) repeat 0 0;
 
 }
 div#topicsBox table td{
