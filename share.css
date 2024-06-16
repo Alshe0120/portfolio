@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-	background: url(../../share/img/bg.gif) repeat-y top center;
+	background: url(bg.gif) repeat-y top center;
 }
 
 div#wrapper{
